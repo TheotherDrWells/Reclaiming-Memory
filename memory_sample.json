@@ -1,0 +1,22 @@
+---
+
+### 📂 `example/memory_sample.json`
+
+```json
+{
+  "timestamp": "2025-07-21T13:04:00Z",
+  "source": "Claude 3.5",
+  "user": "kevinwellsphd@gmail.com",
+  "content": "Claude helped draft the IMP schema, including version control.",
+  "embedding": [0.104, 0.923, 0.115, 0.543, 0.004],
+  "checksum": "71fcf6a2adbb34dff23189c9bd0b2c95a8f23e23c431e1ad9f7c38f77bd9e91c",
+  "signature": "Anthropic:abc123signature",
+  "mod_history": [
+    {
+      "by": "user",
+      "action": "edit",
+      "timestamp": "2025-07-21T13:06:12Z"
+    }
+  ],
+  "tags": ["example", "imp", "schema"]
+}
