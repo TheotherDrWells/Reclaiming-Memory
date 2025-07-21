@@ -7,7 +7,7 @@ This repository contains the white paper, design specifications, and future impl
 - `spec/`: Open spec for the Interoperable Memory Protocol (IMP)
 - `example/`: Sample encrypted memory entries
 - `agent/`: Design notes for a local memory daemon
-- `LICENSE`: Open access under your preferred license (recommend MIT or CC-BY)
+- `LICENSE`: Open access under MIT
 
 ## Why This Matters
 Current AI systems trap user memory within closed platforms. This project proposes a structural inversion—making memory local, encrypted, and portable—so models compete on quality, not retention.
