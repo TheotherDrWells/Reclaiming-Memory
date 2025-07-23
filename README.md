@@ -13,7 +13,7 @@ This repository contains the white paper, design specifications, and future impl
 Current AI systems trap user memory within closed platforms. This project proposes a structural inversion—making memory local, encrypted, and portable—so models compete on quality, not retention.
 
 ## License
-MIT
+CC BY-NC 4.0
 
 ## Author
 Kevin E. Wells, PhD
